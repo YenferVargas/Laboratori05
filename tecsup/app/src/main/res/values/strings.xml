@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tecsup App</string>
+    <string name="title_welcome">Bienvenido</string>
+    <string name="item_android">Curso de Android</string>
+</resources>

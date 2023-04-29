@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemMenuMensaje"
+        android:title="Enviar un mensaje" />
+
+    <item
+        android:id="@+id/itemMenuConversar"
+        android:title="Conversar con ChatBot" />
+
+    <item
+        android:id="@+id/itemMenuPreguntas"
+        android:title="Preguntas frecuentes" />
+
+</menu>

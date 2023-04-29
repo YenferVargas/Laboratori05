@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tecsup App</string>
+    <string name="title_welcome">Bienvenido</string>
+    <string name="item_android">Curso de Android</string>
+    <string name="menu_calculator"> Calculadora</string>
+    <string name="menu_galery">Gallery</string>
+    <string name="menu_slideshow">Slidshow</string>
+    <string name="menu_noticias">Noticias</string>
+    <string name="menu_cursos">Cursos</string>
+    <string name="menu_profesores">Profesores</string>
+    <string name="menu_estudiante">Estudiante</string>
+    <string name="menu_notas">Notas</string>
+    <string name="menu_contactos">Contátos</string>
+    <string name="menu_libro">Libro de Reclamos</string>
+    <string name="menu_comuni">Comunicaciones</string>
+
+
+</resources>
